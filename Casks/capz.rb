@@ -1,7 +1,7 @@
 cask "capz" do
-  version "0.2.1"
-  sha256 arm:   "f8a4d2e3c20ee050b6b941cb279c5b3a2be815bd5182cd5b74d173e599ce34cf",
-         intel: "09ff5df7d4ebd2752c641744ccc55ac61ec42f69575ef8ccea5ee7de7e7aa8de"
+  version "0.3.0"
+  sha256 arm:   "fe668ff8e236caeed23265db18633054b92a35fac04227b65060e6721ef8bef0",
+         intel: "b84b8e511e7e3e1a24e1f00d4b43de54d0577eeb3e1909aaa1272f891bc0e66d"
 
   arch arm: "aarch64", intel: "x64"
 
