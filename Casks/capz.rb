@@ -1,9 +1,9 @@
 cask "capz" do
   arch arm: "aarch64", intel: "x64"
 
-  version "0.17.1"
-  sha256 arm:   "9357c6281b6a931478259f103ee294eab599e195f791f760ac3d81533c9f7a1a",
-         intel: "fdbb1ac6ba2f6887d6c354afdf7a82eaab9be2248f287be2f6dfb835115d632c"
+  version "0.18.1"
+  sha256 arm:   "75bf2c9b25c8730e1071348c23a72014cb518a897bee8a0c0f4057e9c8e5f4f6",
+         intel: "8019686af577e631abb7a5a6501e699eb568370a615c28df48bfc161e098ca30"
 
   url "https://github.com/wadjakorn/capz/releases/download/v#{version}/capz_#{version}_#{arch}.dmg",
       verified: "github.com/wadjakorn/capz/"
